@@ -8,9 +8,9 @@ const Header = (props) => (
         </div>
         <div className="content">
             <div className="inner">
-                <h1>We are partners in growing your company</h1>
+                <h1>Partners In Growing Your Company</h1>
                 <p>
-                    We are an exclusive network of the top freelance software developers, designers, marketers, and project managers 
+                    Top freelance software developers, designers, marketers, and project managers 
                 </p>
             </div>
         </div>
