@@ -64,7 +64,7 @@ class Main extends React.Component {
           <p>Test Lift Highlights:
             <ul>
               <li>
-                Built full stack advertising campaigns resulting in millions in online sales.
+                Built full stack advertising campaigns delivering millions in online sales.
               </li>
             </ul>
 
