@@ -27,11 +27,8 @@ class Main extends React.Component {
               </li>
               
             </ul>
-
-            <a href="https://www.youtube.com/embed/dym6XD3-8qw?rel=0&autoplay=1" target="_blank">
-              Learn more about Test Lift
-            </a> 
-
+            
+            
           </p>
           {close}
         </article>
@@ -50,10 +47,7 @@ class Main extends React.Component {
               
             </ul>
 
-            <a href="https://www.youtube.com/embed/dym6XD3-8qw?rel=0&autoplay=1" target="_blank">
-              Learn more about Test Lift
-            </a> 
-
+            
           </p>
           {close}
         </article>
@@ -68,10 +62,7 @@ class Main extends React.Component {
               </li>
             </ul>
 
-            <a href="https://www.youtube.com/embed/dym6XD3-8qw?rel=0&autoplay=1" target="_blank">
-              Learn more about Test Lift
-            </a> 
-
+            
           </p>
           {close}
         </article>
@@ -88,10 +79,7 @@ class Main extends React.Component {
               </li>
             </ul>
 
-            <a href="https://www.youtube.com/embed/dym6XD3-8qw?rel=0&autoplay=1" target="_blank">
-              Learn more about Test Lift
-            </a> 
-
+            
           </p>
           {close}
         </article>
